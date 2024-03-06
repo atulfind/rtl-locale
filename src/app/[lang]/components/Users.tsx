@@ -23,7 +23,7 @@ const Users = () => {
                 </tr>
                 {
                     state.map(user => {
-                        return (<tr>
+                        return (<tr key={user.id}>
                             <td>{user.name}</td>
                             <td>{user.username}</td>
                             <td>{user.email}</td>
