@@ -22,7 +22,7 @@ const Users = () => {
                     <th>Website</th>
                 </tr>
                 {
-                    state.map(user => {
+                    state.map((user:any) => {
                         return (<tr key={user.id}>
                             <td>{user.name}</td>
                             <td>{user.username}</td>
