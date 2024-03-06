@@ -1,0 +1,9 @@
+{
+    "server-component": {
+      "welcome": "w"
+    },
+    "counter": {
+      "increment": "z",
+      "decrement": "d"
+    }
+  }

@@ -1,0 +1,9 @@
+{
+    "server-component": {
+      "welcome": "स्वागत"
+    },
+    "counter": {
+      "increment": "बढ़ाए",
+      "decrement": "घटाए"
+    }
+  }
